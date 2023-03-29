@@ -1,8 +1,10 @@
 body {
 	background: #141414;
 	color: #ffffff;
+	font-family: 'Barlow', sans-serif;
 }
 
+/**
 .movie-app > .row {
 	overflow-x: auto;
 	flex-wrap: nowrap;
@@ -11,4 +13,15 @@ body {
 .row>* {
   flex-shrink: unset;
   width: auto;
+}**/
+
+.btn-filmes{
+	background-color: #14146e;
+	color:#ffffff;
+	font-weight: 600;
+}
+
+.btn-filmes:hover{
+	background-color: #0c0c41;
+
 }

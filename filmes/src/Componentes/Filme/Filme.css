@@ -2,3 +2,11 @@
     text-align: center;
     margin: 1rem;
 }
+
+.filme{
+    border-style: solid;
+}
+
+.imagem-filme img{
+    width: 100%;
+}
